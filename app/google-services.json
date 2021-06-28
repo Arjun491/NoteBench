@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639866318113",
+    "project_id": "notebench-b38d5",
+    "storage_bucket": "notebench-b38d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639866318113:android:c5c8fceb29e068470fa260",
+        "android_client_info": {
+          "package_name": "com.example.notebench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639866318113-pgsjjpe5tliojtsvio1l45lk8t51alvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGyWkG61Z-9PplUV935iHrk-IevtHKW2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639866318113-pgsjjpe5tliojtsvio1l45lk8t51alvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
